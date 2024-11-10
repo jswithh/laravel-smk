@@ -24,9 +24,9 @@ class StudentRegistrationResource extends Resource
     protected static ?string $navigationIcon = 'heroicon-o-academic-cap';
     protected static ?string $navigationGroup = 'Student Management';
     protected static ?int $navigationSort = 1;
-    protected static ?string $navigationLabel = 'Student Registrations';
+    protected static ?string $navigationLabel = 'Penerimaan Peserta Didik Baru';
     protected static ?string $modelLabel = 'Student Registration';
-    protected static ?string $pluralModelLabel = 'Student Registrations';
+    protected static ?string $pluralModelLabel = 'Penerimaan Peserta Didik Baru';
     protected static ?string $slug = 'student-registrations';
 
     /**
